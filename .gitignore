@@ -201,3 +201,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# some other obsolete files
+home_old.html
+profile_old.html
+room_form_old.html 
+room_old.html 
